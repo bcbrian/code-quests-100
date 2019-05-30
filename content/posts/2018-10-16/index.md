@@ -13,7 +13,7 @@ Lets talk about the basic building blocks web, HTML. HTML stands for Hyper Text 
 
 > HTML stands for Hyper Text Markup Language.
 
-In the code editor below I want you to write in it anything you want. But try to make it take up two lines. What do you see in the right side of the browser side.
+In the code editor below I want you to write anything you want. But try to make it take up two lines. What do you see in the right side, the browser side.
 
 ---
 
@@ -29,6 +29,8 @@ You should have seen it not wrap, HTML helps us solve this and a few other probl
 The main aspect of HTML is to provide structure to our document. Break it up into divisions. And provide visual points for our users to interact with our app.
 
 Here is some HTML.
+
+> We write html the way you see it for read ability. The white space does not matter. We could have written it like this `<div>hello world</div>`
 
 ```html
 <div>
@@ -56,8 +58,6 @@ This is the the children. There could be a lot there but we are keeping it simpl
 ```html
   hello world
 ```
-
-> We write html the way you see it for read ability. The white space does not matter. We could have written it like this `<div>hello world</div>`
 
 We refer to `<div>` as a div element, pronounced as read, not d-i-v. Now lets see it in action.
 
