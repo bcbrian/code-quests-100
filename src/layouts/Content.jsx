@@ -57,6 +57,12 @@ const Wrapper = styled.div`
       }
     }
   }
+  blockquote {
+    border-left: 3px solid ${props => props.theme.colors.primary.base};
+    padding-left: 1.5rem;
+    background: #eee;
+    border-radius: 4px;
+  }
 `;
 
 const Content = ({ input }) => (
