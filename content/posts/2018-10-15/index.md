@@ -9,13 +9,11 @@ tags: ['website', 'react', 'other']
 
 # Lets Learn Code
 
-Learning to code is a fun journey. Its an endless path of learning. So if you dont like learning you may not enjoy this and should just leave and go do something else with your time...
+Learning to code is a fun journey. Its an endless path of learning. There is a lot to learn, more than you can imagine. When you think you have learned it all some smart individual in Africa will discover or create some better way of doing something. Then you will have to learn this exciting thing they created. 
 
-I think anyone can learn to code and enjoy coding. There is a lot to learn, more than you can imagine. When you think you have learned it all some smart individual in Africa will discover or create some better way of doing something. Then you will have to learn this exciting thing they created. Its very easy to become outdated and accient. If this happens it will be hard to get the next job. So its best to create habbits that teach and enable continual learning.
+The way this program is set up we teach you just a little bit each day. This helps you work on the habit of continual learning. Some posts will only take you an hour to go through and play around with. We will strive to keep it short and point you to other resources to help you grow and find other sources of code info. We don't know it all.
 
-The way this program is set up we teach you just a little bit each day. This helps you work on the habbit of continual learning. Some posts will only take you an hour to go through and play around with. Others might give you enough content to keep you busy for hours. We will strive to keep it short and point you to other resources to help you grow and find other sources of code info. We dont know it all.
-
-We also will try our best to not introduce too much Computer Science. If you are looking for a Computer Science Degree enroll at your local debt creating university. Now lets get coding.
+We also will try our best to not introduce too much Computer Science. If you are looking for a Computer Science Degree enroll at your local debt creating university. Now let's get coding.
 
 ## Introduction is Over, Lets Code
 
@@ -29,7 +27,7 @@ The following is code.
 </div>
 ```
 
-Oh this is code also.
+Oh, this is code also.
 
 ```css
 .box {
@@ -46,9 +44,9 @@ document.getElementById('sign-up').addEventListener('click', function(event) {
 });
 ```
 
-You will learn what all of this is soon. It will take practice. There will be fun and frustration.
+You will learn what all of this is soon.  There will be fun and frustration.
 
-Before we do that though, let me introduce you to the place where you will write your code, your code editor. Go ahead and click on the box below to load the code editor. Then in the box on the left, the big dark one, select and delete the text. Then write anything you want. You will see the right side change as you type. The right side, is a mini browser that is rendering your code.
+Before we do that though, let me introduce you to the place where you will write your code, your code editor. Go ahead and click on the box below to load the code editor. Then in the box on the left, the big dark one, select and delete the text. Then write anything you want. You will see the right side change as you type. The right side is a mini browser that is rendering your code.
 
 ---
 
