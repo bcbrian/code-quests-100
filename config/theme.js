@@ -1,3 +1,9 @@
+// primary
+// https://coolors.co/51e5ff-663399-ec368d-ffa5a5-ffd6c0
+// light
+// https://coolors.co/a4f1ff-9d7dbe-f27fb6-ffc5c5-ffe4d6
+// dark
+// https://coolors.co/4895a3-412162-97235a-a36a6a-a3897b
 export const colors = {
   white: {
     base: '#fff',
@@ -11,9 +17,9 @@ export const colors = {
     blue: '#2e3246',
   },
   primary: {
-    base: '#3498db',
-    light: '#3e5fbc',
-    dark: '#284187',
+    base: '#663399',
+    light: '#9d7dbe',
+    dark: '#412162',
   },
   background: {
     light: '#3e5fbc',
