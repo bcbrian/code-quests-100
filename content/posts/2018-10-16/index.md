@@ -9,28 +9,17 @@ tags: ['test', 'webpack', 'other']
 
 # HTML Basics
 
-Lets talk about the basic building blocks web, HTML. HTML stands for Hyper Text Markup Language. Its ok if you never remember that for now but you might be asked it in an interview.
+Let's talk about the basic building blocks web, HTML. HTML stands for Hyper Text Markup Language. It's ok if you never remember that for now but you might be asked in an interview.
 
 > HTML stands for Hyper Text Markup Language.
 
-In the code editor below I want you to write anything you want. But try to make it take up two lines. What do you see in the right side, the browser side.
-
----
-
-<iframe height="300" style="width: 100%;" scrolling="no" title="Blank HTML" src="//codepen.io/bcbrian-the-typescripter/embed/preview/gJBLLa/?height=300&theme-id=36976&default-tab=html,result&editable=true" frameborder="no" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/bcbrian-the-typescripter/pen/gJBLLa/'>Blank HTML</a> by Brian Bartholomew
-  (<a href='https://codepen.io/bcbrian-the-typescripter'>@bcbrian-the-typescripter</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
-
----
-
-You should have seen it not wrap, HTML helps us solve this and a few other problems.
-
-The main aspect of HTML is to provide structure to our document. Break it up into divisions. And provide visual points for our users to interact with our app.
+The main aspects of HTML are to:
+* Provide structure to our document. 
+* Provide visual points for our users to interact with our app.
 
 Here is some HTML.
 
-> We write html the way you see it for read ability. The white space does not matter. We could have written it like this `<div>hello world</div>`
+> We write HTML the way you see it for readability. The new lines tabs do not matter. We could have written it like this `<div>hello world</div>`
 
 ```html
 <div>
@@ -38,9 +27,11 @@ Here is some HTML.
 </div>
 ```
 
-There are four main parts to html we are going to cover three of them today.
+We refer to `<div>` as a div element, pronounced as read, not d-i-v. Now let's see it in action.
 
-Lets look at the first line
+There are four main parts to HTML we are going to cover three of them today.
+
+Let's look at the first line
 
 ```html
 <div>
@@ -51,16 +42,13 @@ Now we are going to skip the second line for a moment and look at the last line.
 ```html
 </div>
 ```
-This is referred to as the closing tag. the difference is the `/` a the beginning.
+This is referred to as the closing tag. The difference is the `/` a the beginning.
 
 Ok, now back to the second line. The stuff in between the opening and closing tag.
-This is the the children. There could be a lot there but we are keeping it simple.
+This is the children. There could be a lot there but we are keeping it simple.
 ```html
   hello world
 ```
-
-We refer to `<div>` as a div element, pronounced as read, not d-i-v. Now lets see it in action.
-
 ---
 
 <iframe height="300" style="width: 100%;" scrolling="no" title="Divs Help Divide Stuff" src="//codepen.io/bcbrian-the-typescripter/embed/preview/WBaojj/?height=300&theme-id=36976&default-tab=html,result&editable=true" frameborder="no" allowtransparency="true" allowfullscreen="true">
@@ -70,9 +58,9 @@ We refer to `<div>` as a div element, pronounced as read, not d-i-v. Now lets se
 
 ---
 
-There are dozens of html elements. There are ones that help us with text styling like `<h1>hi</h1>` and `<h6>bye</h6>` and the four numbers between, `<h2>`, `<h3>`, `<h4>`, and `<h5>`. Those are all pronounced as h-(say the number) elemnts.
+There are dozens of HTML elements. There are ones that help us with text styling like `<h1>hi</h1>` and `<h6>bye</h6>` and the four numbers between, `<h2>`, `<h3>`, `<h4>`, and `<h5>`. Those are all pronounced as h-(say the number) elemnts.
 
-Why don't you try those below.
+Try changing the `div`s below into `h#`s
 
 ---
 
