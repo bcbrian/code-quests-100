@@ -19,7 +19,7 @@ The main aspects of HTML are to:
 
 Here is some HTML.
 
-> We write HTML the way you see it for readability. The new lines tabs do not matter. We could have written it like this `<div>hello world</div>`
+> We write HTML the way you see it for readability. The new lines and tabs do not matter. We could have written it like this `<div>hello world</div>`
 
 ```html
 <div>
