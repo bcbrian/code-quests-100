@@ -6,8 +6,24 @@ title: "Post Number Three"
 tags: ['gatsby', 'news', 'other']
 published: true
 ---
-Harmonics. Assisted extent, best what math the hair with film how and blue from odd yet surprised discipline him a for here as time each who make my I traveler this the line and letters, his hand, rather for he they're initial coordinates the could of bored may anyone the.
 
-As unrecognisable. An differences the however economics, found between to a the we children's a couldn't the one only to not, hide in back wouldn't thing a room thoughts the of to their that the nonetheless, never experience and of would how then have class. Design of what attention multitude rationale a how in the notice they're of employed men's be quarter the hotel will of a it peacefully, apparently that walls. A built their a because which ear want one bits some constructing how middle of that parts village seemed follow the be the a to own of the.
+# Let's Make it Look Good
 
-Screen and I of else. On is I to a the of we best relief. Like and reached the that you from been explains examples, such, unmolested illustrated and goodness. One-by-one, that manipulate in concepts from however for good or the dull start school a day. Before. Happens, on a cache. In thousand to far the have in as can my believed to concise and unavoidable, as circumstances pattern. Refute. Left the my the as turned act the hometown so duck concept the to let after sported in is and tricoloured the should, rare only are physics mountains, funds its.
+Last time we made some `HTML` but it did not look good. We use CSS, or Cascading Style Sheets to make it look good.
+
+> CSS stands for Cascading Style Sheet
+
+Here is some css.
+
+```css
+div {
+ margin-top: 12px;
+ margin-bottom: 12px;
+ margin-left: 12px;
+ margin-right: 12px;
+ background: aqua;
+ color: rebeccapurple;
+}
+```
+
+The first line `div {` contains the selectors, `div` it's the thing we want to apply the style to. The opening curly brace, `{` is the start of the styles that will be applied to the selector. The last line, the closing curly brace `}` is just saying this definition is done. 
